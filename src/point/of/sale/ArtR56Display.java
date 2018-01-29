@@ -1,6 +1,6 @@
 package point.of.sale;
 
-public class ArtR56Display {
+public class ArtR56Display implements Display {
 
     ArtR56 artR56;
 
@@ -8,7 +8,7 @@ public class ArtR56Display {
         this.artR56 = artR56;
     }
 
-    public void showLine(String barcode){
+    public void showLine(String barcode) {
         artR56.showLine(barcode);
     }
 }

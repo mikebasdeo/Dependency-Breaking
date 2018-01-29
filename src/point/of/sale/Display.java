@@ -2,5 +2,5 @@ package point.of.sale;
 
 public interface Display {
 
-    public void showLIne(String line);
+    public void showLine(String line);
 }
