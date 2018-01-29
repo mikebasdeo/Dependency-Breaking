@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ce04d1bb-3184-4cdd-81b8-b0747580d215" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/point/of/sale/FakeStorage.java" afterPath="$PROJECT_DIR$/src/point/of/sale/FakeStorage.java" />
-      <change beforePath="$PROJECT_DIR$/src/point/of/sale/Sale.java" afterPath="$PROJECT_DIR$/src/point/of/sale/Sale.java" />
       <change beforePath="$PROJECT_DIR$/src/point/of/sale/TestSale.java" afterPath="$PROJECT_DIR$/src/point/of/sale/TestSale.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -63,8 +61,8 @@
       <file leaf-file-name="TestSale.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/point/of/sale/TestSale.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="14" column="53" lean-forward="true" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
+            <state relative-caret-position="357">
+              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -141,9 +139,9 @@
         <option value="$PROJECT_DIR$/src/point/of/sale/FakeDisplay.java" />
         <option value="$PROJECT_DIR$/src/point/of/sale/Storage.java" />
         <option value="$PROJECT_DIR$/src/point/of/sale/PostgresCallsAdapter.java" />
-        <option value="$PROJECT_DIR$/src/point/of/sale/TestSale.java" />
         <option value="$PROJECT_DIR$/src/point/of/sale/Sale.java" />
         <option value="$PROJECT_DIR$/src/point/of/sale/FakeStorage.java" />
+        <option value="$PROJECT_DIR$/src/point/of/sale/TestSale.java" />
       </list>
     </option>
   </component>
@@ -434,7 +432,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517190035180</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Added FakeStorage to TestSale">
+      <created>1517190374143</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1517190374143</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -459,6 +464,9 @@
     <history-entry file="TestSale - 2018.01.28 at 20h 45m 30s.xml">
       <configuration name="TestSale" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TestSale - 2018.01.28 at 20h 46m 43s.xml">
+      <configuration name="TestSale" configurationId="JUnit" />
+    </history-entry>
     <history-entry file="TestSale_test - 2018.01.28 at 20h 13m 37s.xml">
       <configuration name="TestSale.test" configurationId="JUnit" />
     </history-entry>
@@ -472,13 +480,13 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26564217" sideWeight="0.4739922" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26564217" sideWeight="0.4713914" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32930845" sideWeight="0.5162549" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26344675" sideWeight="0.51885563" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32930845" sideWeight="0.48374513" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26344675" sideWeight="0.48114434" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32826087" sideWeight="0.49841017" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -515,7 +523,8 @@
     <MESSAGE value="Adding Storage interface." />
     <MESSAGE value="Use the storage interface instead of the postgres class." />
     <MESSAGE value="Added Storage, PostgresCallsAdapter, FakeStorage" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Storage, PostgresCallsAdapter, FakeStorage" />
+    <MESSAGE value="Added FakeStorage to TestSale" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added FakeStorage to TestSale" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -646,8 +655,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/point/of/sale/TestSale.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="53" lean-forward="true" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
+        <state relative-caret-position="357">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
