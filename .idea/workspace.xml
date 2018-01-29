@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce04d1bb-3184-4cdd-81b8-b0747580d215" name="Default" comment="Test the sale">
+    <list default="true" id="ce04d1bb-3184-4cdd-81b8-b0747580d215" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/point/of/sale/TestSale.java" afterPath="$PROJECT_DIR$/src/point/of/sale/TestSale.java" />
-      <change beforePath="$PROJECT_DIR$/workspace.iml" afterPath="$PROJECT_DIR$/workspace.iml" />
+      <change beforePath="$PROJECT_DIR$/src/point/of/sale/Sale.java" afterPath="$PROJECT_DIR$/src/point/of/sale/Sale.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Sale.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Sale.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/point/of/sale/Sale.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="29" lean-forward="false" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+            <state relative-caret-position="308">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -48,11 +47,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArtR56Display.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ArtR56Display.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/point/of/sale/ArtR56Display.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="34">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding>
                 <element signature="e#132#133#0" expanded="true" />
                 <element signature="e#168#169#0" expanded="true" />
@@ -101,11 +100,11 @@
       <list>
         <option value="$PROJECT_DIR$/src/point/of/sale/Main.java" />
         <option value="$PROJECT_DIR$/src/point/of/sale/ArtR56Display.java" />
-        <option value="$PROJECT_DIR$/src/point/of/sale/Sale.java" />
         <option value="$PROJECT_DIR$/src/point/of/sale/Display.java" />
         <option value="$PROJECT_DIR$/src/point/of/sale/FadeDisplay.java" />
         <option value="$PROJECT_DIR$/src/point/of/sale/FakeDisplay.java" />
         <option value="$PROJECT_DIR$/src/point/of/sale/TestSale.java" />
+        <option value="$PROJECT_DIR$/src/point/of/sale/Sale.java" />
       </list>
     </option>
   </component>
@@ -361,7 +360,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517187474031</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Created Test for the Sale class using FakeDisplay.">
+      <created>1517189318127</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1517189318127</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -431,7 +437,8 @@
     <MESSAGE value="Add FakeDisplay" />
     <MESSAGE value="Added lastLine and getLastLine for testing" />
     <MESSAGE value="Created Sale using FakeDisplay for testing." />
-    <option name="LAST_COMMIT_MESSAGE" value="Created Sale using FakeDisplay for testing." />
+    <MESSAGE value="Created Test for the Sale class using FakeDisplay." />
+    <option name="LAST_COMMIT_MESSAGE" value="Created Test for the Sale class using FakeDisplay." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -498,11 +505,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/point/of/sale/Sale.java">
+    <entry file="file://$PROJECT_DIR$/src/point/of/sale/TestSale.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="29" lean-forward="false" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-          <folding />
+        <state relative-caret-position="85">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/point/of/sale/ArtR56Display.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -518,26 +540,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/point/of/sale/TestSale.java">
+    <entry file="file://$PROJECT_DIR$/src/point/of/sale/Sale.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/point/of/sale/ArtR56Display.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
+        <state relative-caret-position="308">
           <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="e#132#133#0" expanded="true" />
-            <element signature="e#168#169#0" expanded="true" />
-            <element signature="e#212#213#0" expanded="true" />
-            <element signature="e#252#253#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
