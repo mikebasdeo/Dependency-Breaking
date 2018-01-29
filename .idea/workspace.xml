@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ce04d1bb-3184-4cdd-81b8-b0747580d215" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/point/of/sale/Sale.java" afterPath="$PROJECT_DIR$/src/point/of/sale/Sale.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,8 +17,18 @@
       <file leaf-file-name="Sale.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/point/of/sale/Sale.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="330">
+              <caret line="15" column="37" lean-forward="true" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Storage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/point/of/sale/Storage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -81,9 +90,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -105,6 +114,7 @@
         <option value="$PROJECT_DIR$/src/point/of/sale/FakeDisplay.java" />
         <option value="$PROJECT_DIR$/src/point/of/sale/TestSale.java" />
         <option value="$PROJECT_DIR$/src/point/of/sale/Sale.java" />
+        <option value="$PROJECT_DIR$/src/point/of/sale/Storage.java" />
       </list>
     </option>
   </component>
@@ -367,7 +377,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517189318127</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Adding back the DB.">
+      <created>1517189428413</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1517189428413</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -438,7 +455,8 @@
     <MESSAGE value="Added lastLine and getLastLine for testing" />
     <MESSAGE value="Created Sale using FakeDisplay for testing." />
     <MESSAGE value="Created Test for the Sale class using FakeDisplay." />
-    <option name="LAST_COMMIT_MESSAGE" value="Created Test for the Sale class using FakeDisplay." />
+    <MESSAGE value="Adding back the DB." />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding back the DB." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -497,14 +515,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/point/of/sale/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/point/of/sale/Display.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/point/of/sale/TestSale.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -540,10 +550,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/point/of/sale/Storage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/point/of/sale/Display.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/point/of/sale/Sale.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state relative-caret-position="330">
+          <caret line="15" column="37" lean-forward="true" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
           <folding />
         </state>
       </provider>
