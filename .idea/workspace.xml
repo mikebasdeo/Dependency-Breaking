@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce04d1bb-3184-4cdd-81b8-b0747580d215" name="Default" comment="Fixed method name.">
+    <list default="true" id="ce04d1bb-3184-4cdd-81b8-b0747580d215" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/345 - Shortcut.lnk" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/point/of/sale/FakeDisplay.java" afterPath="$PROJECT_DIR$/src/point/of/sale/FakeDisplay.java" />
-      <change beforePath="$PROJECT_DIR$/workspace.iml" afterPath="$PROJECT_DIR$/workspace.iml" />
+      <change beforePath="$PROJECT_DIR$/src/point/of/sale/TestSale.java" afterPath="$PROJECT_DIR$/src/point/of/sale/TestSale.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,18 +18,18 @@
       <file leaf-file-name="Sale.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/point/of/sale/Sale.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="58">
-              <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="17" />
+            <state relative-caret-position="406">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestSale.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TestSale.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/point/of/sale/TestSale.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="406">
-              <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            <state relative-caret-position="435">
+              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -64,11 +62,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FakeDisplay.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FakeDisplay.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/point/of/sale/FakeDisplay.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
               <folding>
                 <element signature="e#185#186#0" expanded="true" />
                 <element signature="e#216#217#0" expanded="true" />
@@ -106,8 +104,8 @@
         <option value="$PROJECT_DIR$/src/point/of/sale/Sale.java" />
         <option value="$PROJECT_DIR$/src/point/of/sale/Display.java" />
         <option value="$PROJECT_DIR$/src/point/of/sale/FadeDisplay.java" />
-        <option value="$PROJECT_DIR$/src/point/of/sale/TestSale.java" />
         <option value="$PROJECT_DIR$/src/point/of/sale/FakeDisplay.java" />
+        <option value="$PROJECT_DIR$/src/point/of/sale/TestSale.java" />
       </list>
     </option>
   </component>
@@ -307,7 +305,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517187102629</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added lastLine and getLastLine for testing">
+      <created>1517187293363</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1517187293363</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -352,7 +357,8 @@
     <MESSAGE value="Add Display interfaces so we can later FakeDisplay" />
     <MESSAGE value="Implement the Display Interface." />
     <MESSAGE value="Add FakeDisplay" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add FakeDisplay" />
+    <MESSAGE value="Added lastLine and getLastLine for testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added lastLine and getLastLine for testing" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -380,6 +386,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/point/of/sale/FakeDisplay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding>
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/point/of/sale/Display.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
@@ -388,33 +407,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/point/of/sale/TestSale.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/point/of/sale/Sale.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="17" />
+        <state relative-caret-position="406">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/point/of/sale/FakeDisplay.java">
+    <entry file="file://$PROJECT_DIR$/src/point/of/sale/TestSale.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state relative-caret-position="435">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
           <folding>
-            <element signature="e#185#186#0" expanded="true" />
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#281#282#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

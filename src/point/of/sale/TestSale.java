@@ -9,6 +9,7 @@ public class TestSale {
     public void test(){
         Display display = new FakeDisplay();
         Sale sale = new Sale(display);
+        sale.scan("123");
         fail("Not yet implemented");
     }
 
