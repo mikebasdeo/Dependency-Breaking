@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce04d1bb-3184-4cdd-81b8-b0747580d215" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/point/of/sale/FakeStorage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/point/of/sale/PostgresCallsAdapter.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/point/of/sale/Storage.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/point/of/sale/Sale.java" afterPath="$PROJECT_DIR$/src/point/of/sale/Sale.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,7 +37,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PostgresCallsAdapter.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PostgresCallsAdapter.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/point/of/sale/PostgresCallsAdapter.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
@@ -44,6 +46,16 @@
                 <element signature="e#165#166#0" expanded="true" />
                 <element signature="e#213#214#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FakeStorage.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/point/of/sale/FakeStorage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -406,7 +418,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517189570422</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Use the storage interface instead of the postgres class.">
+      <created>1517189946227</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1517189946227</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -479,7 +498,8 @@
     <MESSAGE value="Created Test for the Sale class using FakeDisplay." />
     <MESSAGE value="Adding back the DB." />
     <MESSAGE value="Adding Storage interface." />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding Storage interface." />
+    <MESSAGE value="Use the storage interface instead of the postgres class." />
+    <option name="LAST_COMMIT_MESSAGE" value="Use the storage interface instead of the postgres class." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -605,6 +625,14 @@
             <element signature="e#165#166#0" expanded="true" />
             <element signature="e#213#214#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/point/of/sale/FakeStorage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
