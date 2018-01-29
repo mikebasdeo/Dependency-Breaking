@@ -19,4 +19,5 @@ A mock object is a dummy implementation for an interface or a class in which you
 2. setExpectations
 
 3. validate
+![alt text](resources/Dependency.png "Description goes here")
 
