@@ -1,0 +1,6 @@
+package point.of.sale;
+
+public interface Display {
+
+    public void showLIne(String line);
+}
