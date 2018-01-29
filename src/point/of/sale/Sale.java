@@ -18,7 +18,7 @@ public class Sale {
         //display the barcode
         display.showLine(barcode);
 
-        //lookup barcode in postgres and get item
+        //lookup barcode in fake storage and get item
         display.showLine(storage.barcode(barcode));
     }
 
