@@ -6,13 +6,13 @@
 
 3. Write the code
 
-##Mocks
+## Mocks
 
 A mock object is a dummy implementation for an interface or a class in which you define the output of certain method calls. Mock objects are configured to perform a certain behavior during a test. They typical record the interaction with the system and test can validate that.
 
 
 
-##Mock database
+## Mock database
 
 1. Some kind of simple HashMap storage
 
